@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
   ProgressDialog pd;
 
-  String app_id, app_key;
+  String app_id="40cb1f76", app_key="9dd571cf4d9e83a7796c460130be79dd";
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
