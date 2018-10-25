@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Food Nutrition Database</string>
+    <string name="food">Enter name of food</string>
+    <string name="search">Search</string>
+</resources>
